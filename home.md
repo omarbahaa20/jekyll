@@ -12,7 +12,7 @@ xs_review_overview_settings:
 ---
 
 <style type="text/css">/* widget: Blob Shapes */
-#uc_blob_shapes_elementor14370
+#uc_blob_shapes_elementor1875162
 {
   mix-blend-mode: normal;
   background-size:cover;
@@ -20,14 +20,14 @@ xs_review_overview_settings:
   background-position:center center;
   opacity: 100%;
 }
-#uc_blob_shapes_elementor14370_size {
+#uc_blob_shapes_elementor1875162_size {
   overflow:hidden;
   width: 100%;
   clip-path: animated;
   -webkit-clip-path: animated;
   background:linear-gradient(120deg, #FB2541 0%, 40%, #00B4FF 90%); 
 }
-#uc_blob_shapes_elementor14370_size{
+#uc_blob_shapes_elementor1875162_size{
   animation-name: animated;
   animation-iteration-count: infinite;
   animation-direction: alternate;
@@ -49,7 +49,7 @@ xs_review_overview_settings:
    -webkit-clip-path: polygon(96.500% 13.800%, 97.700% 15.900%, 98.600% 18.100%, 99.300% 20.500%, 99.700% 23.000%, 99.900% 25.600%, 99.900% 28.300%, 99.700% 31.100%, 99.500% 34.000%, 99.000% 36.900%, 98.400% 39.900%, 97.700% 42.900%, 96.900% 45.900%, 96.000% 49.000%, 95.100% 52.100%, 94.100% 55.200%, 93.100% 58.200%, 92.100% 61.200%, 91.100% 64.100%, 90.100% 67.000%, 89.100% 69.800%, 88.000% 72.600%, 86.900% 75.300%, 85.700% 77.900%, 84.500% 80.400%, 83.200% 82.800%, 81.800% 85.100%, 80.300% 87.200%, 78.700% 89.200%, 77.000% 91.000%, 75.200% 92.700%, 73.300% 94.200%, 71.200% 95.600%, 69.000% 96.800%, 66.700% 97.800%, 64.300% 98.600%, 61.800% 99.200%, 59.200% 99.700%, 56.500% 100.000%, 53.800% 100.100%, 51.000% 100.100%, 48.200% 99.900%, 45.400% 99.600%, 42.600% 99.100%, 39.800% 98.500%, 37.000% 97.700%, 34.300% 96.800%, 31.700% 95.700%, 29.100% 94.500%, 26.600% 93.100%, 24.200% 91.600%, 21.900% 90.000%, 19.700% 88.300%, 17.600% 86.500%, 15.600% 84.500%, 13.700% 82.400%, 11.900% 80.300%, 10.300% 78.100%, 8.800% 75.800%, 7.400% 73.400%, 6.100% 70.900%, 4.900% 68.400%, 3.800% 65.800%, 2.800% 63.100%, 2.000% 60.400%, 1.300% 57.600%, 0.700% 54.800%, 0.200% 52.000%, -0.100% 49.200%, -0.300% 46.400%, 0.000% 43.300%, 0.100% 40.500%, 0.300% 37.700%, 0.700% 35.000%, 1.200% 32.300%, 1.900% 29.700%, 2.800% 27.200%, 3.800% 24.700%, 5.000% 22.300%, 6.400% 20.000%, 8.000% 17.900%, 9.800% 15.900%, 11.700% 14.000%, 13.800% 12.200%, 16.100% 10.500%, 18.500% 9.000%, 21.000% 7.600%, 23.700% 6.300%, 26.500% 5.100%, 29.400% 4.100%, 32.400% 3.200%, 35.500% 2.400%, 38.700% 1.700%, 41.900% 1.100%, 45.200% 0.600%, 48.500% 0.300%, 51.900% 0.100%, 55.300% 0.000%, 58.700% 0.000%, 62.100% 0.100%, 65.500% 0.300%, 68.800% 0.700%, 72.100% 1.200%, 75.300% 1.800%, 78.400% 2.600%, 81.300% 3.500%, 84.100% 4.500%, 86.700% 5.700%, 89.100% 7.000%, 91.300% 8.500%, 93.300% 10.100%, 95.000% 11.900%, 96.500% 13.800%);
   }
 }
-#uc_blob_shapes_elementor14370_justification {
+#uc_blob_shapes_elementor1875162_justification {
   display: flex;
 }
 .ue-blob-text-holder
@@ -71,22 +71,20 @@ xs_review_overview_settings:
   position:relative;
 }
 </style> <a href="" style="display:block;">  
- </a>
-
-<style>/*! elementor - v3.5.6 - 28-02-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style> ![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/pp_banner_circle-1.png)  
+ </a>  
+   
+ ![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/pp_banner_circle-1.png)  
  ![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/pp_banner_dotted_shape-1.png)  
  ![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/pp_banner_angle_shape-1.png)  
  ![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/pp_banner_shape_01-1.png)  
  ![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/pp_banner_angle_shape_01-1.png)
 
-<style>/*! elementor - v3.5.6 - 28-02-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style># Hello, my name’s Omar Bahaa. I’m Graphic Designer.
+# Hello, my name’s Omar Bahaa. I’m Graphic Designer.
 
  ![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/pp_banner_dotted_shape_01-1.png)
 
 <style type="text/css">/* widget: Liquid Button */
-#uc_super_fun_liquid_button_elementor26656 {
+#uc_super_fun_liquid_button_elementor1885406 {
   background: none;
   padding: 15px 30px;
   border-radius: 50px;
@@ -96,7 +94,7 @@ xs_review_overview_settings:
   text-decoration: none;
   z-index: 2;
 }
-#uc_super_fun_liquid_button_elementor26656 canvas {
+#uc_super_fun_liquid_button_elementor1885406 canvas {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -110,10 +108,8 @@ xs_review_overview_settings:
  [  
  <svg aria-hidden="true"><use xlink:href="#fas-file-download"></use></svg>  
  Download Cv  
- ](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/CV-OMAR-BAHAAEN.pdf)
-
-<style>/*! elementor - v3.5.6 - 28-02-2022 */
-.elementor-counter .elementor-counter-number-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;font-size:69px;font-weight:600;line-height:1}.elementor-counter .elementor-counter-number-prefix,.elementor-counter .elementor-counter-number-suffix{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;white-space:pre-wrap}.elementor-counter .elementor-counter-number-prefix{text-align:right}.elementor-counter .elementor-counter-number-suffix{text-align:left}.elementor-counter .elementor-counter-title{text-align:center;font-size:19px;font-weight:400;line-height:2.5}</style> 0  
+ ](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/CV-OMAR-BAHAAEN.pdf)  
+ 0  
 \+  
  YEARS EXPERIENCE  
  0  
@@ -131,7 +127,7 @@ xs_review_overview_settings:
 
 Experienced Design Specialist with more than five years of experience in corporate environments. Skilled in handling multiple graphic design tasks for product launch. A proven track record of seeing digital design assignments from start to finish.
 
-<style>.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><figure>![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/Group-22-1.png)</figure>### Graphic Designer
+<figure>![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/Group-22-1.png)</figure>### Graphic Designer
 
 <figure>![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/Group-20-1.png)</figure>### 3D Modeling
 
@@ -147,7 +143,7 @@ Seeking Professional Growth, And Thus Getting More Experiences
 
 And Developing My Skills, Which Makes Me More Creative And Stable And Gain New Experiences…
 
-<style>.elementor-widget.elementor-icon-list--layout-inline .elementor-widget-container{overflow:hidden}.elementor-widget .elementor-icon-list-items.elementor-inline-items{margin-right:-8px;margin-left:-8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:8px;margin-left:8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{width:auto;left:auto;right:auto;position:relative;height:100%;border-top:0;border-bottom:0;border-right:0;border-left-width:1px;border-style:solid;right:-8px}.elementor-widget .elementor-icon-list-items{list-style-type:none;margin:0;padding:0}.elementor-widget .elementor-icon-list-item{margin:0;padding:0;position:relative}.elementor-widget .elementor-icon-list-item:after{position:absolute;bottom:0;width:100%}.elementor-widget .elementor-icon-list-item,.elementor-widget .elementor-icon-list-item a{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-size:inherit}.elementor-widget .elementor-icon-list-icon+.elementor-icon-list-text{-ms-flex-item-align:center;align-self:center;padding-left:5px}.elementor-widget .elementor-icon-list-icon{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget .elementor-icon-list-icon svg{width:var(--e-icon-list-icon-size,1em);height:var(--e-icon-list-icon-size,1em)}.elementor-widget .elementor-icon-list-icon i{width:1.25em;font-size:var(--e-icon-list-icon-size)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon{text-align:var(--e-icon-list-icon-align)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon svg{margin:var(--e-icon-list-icon-margin,0 calc(var(--e-icon-list-icon-size, 1em) * .25) 0 0)}.elementor-widget.elementor-list-item-link-full_width a{width:100%}.elementor-widget.elementor-align-center .elementor-icon-list-item,.elementor-widget.elementor-align-center .elementor-icon-list-item a{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-align-center .elementor-inline-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-left .elementor-icon-list-item,.elementor-widget.elementor-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-align-left .elementor-inline-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-align-right .elementor-icon-list-item,.elementor-widget.elementor-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget.elementor-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget:not(.elementor-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-align-left) .elementor-icon-list-item:after{right:0}@media (max-width:1024px){.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item a,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-tablet-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-tablet-align-left) .elementor-icon-list-item:after{right:0}}@media (max-width:767px){.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item a,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-mobile-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-mobile-align-left) .elementor-icon-list-item:after{right:0}}</style>- <svg aria-hidden="true"><use xlink:href="#fas-check-circle"></use></svg>  
+- <svg aria-hidden="true"><use xlink:href="#fas-check-circle"></use></svg>  
      Visual identity
 - <svg aria-hidden="true"><use xlink:href="#fas-check-circle"></use></svg>  
      Marketing &amp; Advertising
@@ -164,7 +160,7 @@ And Developing My Skills, Which Makes Me More Creative And Stable And Gain New E
 
 All Advertising Services.
 
-<style>@media (min-width:768px){.elementor-widget-icon-box.elementor-position-left .elementor-icon-box-wrapper,.elementor-widget-icon-box.elementor-position-right .elementor-icon-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-icon-box.elementor-position-left .elementor-icon-box-icon,.elementor-widget-icon-box.elementor-position-right .elementor-icon-box-icon{display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-flex:0;-ms-flex:0 0 auto;flex:0 0 auto}.elementor-widget-icon-box.elementor-position-right .elementor-icon-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-icon-box.elementor-position-left .elementor-icon-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-icon-box.elementor-position-top .elementor-icon-box-img{margin:auto}.elementor-widget-icon-box.elementor-vertical-align-top .elementor-icon-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-icon-box.elementor-vertical-align-middle .elementor-icon-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-icon-box.elementor-vertical-align-bottom .elementor-icon-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-icon-box .elementor-icon-box-icon{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-icon-box .elementor-icon-box-wrapper{text-align:center}.elementor-widget-icon-box .elementor-icon-box-title a{color:inherit}.elementor-widget-icon-box .elementor-icon-box-content{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.elementor-widget-icon-box .elementor-icon-box-description{margin:0}</style> <svg aria-hidden="true"><use xlink:href="#fas-briefcase"></use></svg>
+ <svg aria-hidden="true"><use xlink:href="#fas-briefcase"></use></svg>
 
 ###  Freelance  
  
@@ -209,11 +205,11 @@ All Advertising Services.
  <svg fill="none" height="128" viewbox="0 0 128 128" width="128" xmlns="http://www.w3.org/2000/svg"><rect fill="#001E36" height="128" width="128"></rect><path d="M28.5781 90.9788V36.9375C28.5781 36.5436 28.7478 36.3455 29.0859 36.3455C29.9866 36.3455 31.0577 36.3314 32.2991 36.3031C33.5391 36.2752 34.8783 36.2471 36.317 36.2189C37.7545 36.191 39.2768 36.1627 40.8839 36.134C42.4911 36.1061 44.0837 36.092 45.6618 36.0916C49.3359 35.9974 52.9984 36.5412 56.4866 37.6988C59.132 38.5938 61.5447 40.0672 63.5491 42.0119C65.2478 43.6976 66.5608 45.7317 67.3973 47.974C68.1876 50.1564 68.5881 52.4609 68.5803 54.782C68.7401 58.74 67.6448 62.6472 65.4509 65.9454C63.3517 68.8888 60.4001 71.1174 56.9944 72.3305C53.1987 73.6975 49.1881 74.3708 45.154 74.3182C43.9129 74.3182 43.0394 74.3041 42.5335 74.2758C42.0257 74.2479 41.2645 74.2337 40.2501 74.2334V90.8941C40.2647 90.9975 40.2552 91.1029 40.2221 91.2019C40.1891 91.3009 40.1334 91.3909 40.0596 91.4648C39.9858 91.5386 39.8958 91.5942 39.7967 91.6273C39.6977 91.6604 39.5923 91.6699 39.4889 91.6552H29.1708C28.7757 91.6552 28.5781 91.4297 28.5781 90.9788ZM40.25 46.4939V64C40.9821 64.057 41.6585 64.0852 42.279 64.0849H45.0692C47.1163 64.115 49.1558 63.8299 51.1161 63.2394C52.7921 62.7417 54.2898 61.7729 55.4308 60.4481C56.6113 58.8999 57.1963 56.9791 57.0792 55.0357C57.124 53.3999 56.6983 51.7856 55.8527 50.3845C54.9639 49.0298 53.6796 47.9815 52.1742 47.3823C50.2083 46.6178 48.1083 46.2582 46.0001 46.3248C44.6474 46.3248 43.4495 46.339 42.4064 46.3672C41.3617 46.3962 40.6429 46.4385 40.25 46.4939Z" fill="#31A8FF"></path><path d="M101.502 60.6172C99.5397 59.8103 97.4972 59.2151 95.4088 58.8415C93.4809 58.399 91.5097 58.172 89.5316 58.1647C88.4614 58.1358 87.3927 58.264 86.3597 58.5452C85.7021 58.6916 85.1177 59.0662 84.7102 59.6027C84.435 60.0317 84.2885 60.5306 84.2883 61.0402C84.3035 61.5348 84.4816 62.0105 84.795 62.3935C85.2893 62.9714 85.8932 63.4457 86.5718 63.7891C87.7775 64.4384 89.0199 65.0171 90.2928 65.5223C93.1308 66.4728 95.8427 67.765 98.3687 69.3706C100.089 70.4567 101.513 71.9534 102.513 73.726C103.353 75.4044 103.774 77.2617 103.739 79.1384C103.79 81.6168 103.082 84.0514 101.709 86.1155C100.241 88.2114 98.2006 89.8407 95.8319 90.8092C92.8105 92.0217 89.5715 92.5977 86.3173 92.5011C83.9182 92.5254 81.5231 92.2985 79.1712 91.8242C77.2098 91.4793 75.2941 90.9118 73.4613 90.1328C73.2764 90.0373 73.1226 89.8912 73.0178 89.7114C72.9131 89.5316 72.8617 89.3257 72.8698 89.1177V79.9844C72.8597 79.8949 72.874 79.8043 72.9114 79.7223C72.9487 79.6404 73.0077 79.5701 73.0819 79.519C73.1544 79.4781 73.2377 79.4602 73.3206 79.4678C73.4036 79.4754 73.4822 79.508 73.5461 79.5614C75.6892 80.7568 77.9984 81.626 80.3977 82.1407C82.4176 82.6471 84.4896 82.9168 86.5718 82.9442C88.0631 83.037 89.5553 82.7762 90.9267 82.1831C91.347 81.9908 91.7025 81.6808 91.9502 81.2905C92.1978 80.9003 92.3269 80.4466 92.3218 79.9844C92.286 79.5586 92.1531 79.1466 91.9334 78.7801C91.7136 78.4136 91.4128 78.1023 91.054 77.8701C89.4538 76.8216 87.7179 75.9964 85.8944 75.4176C83.239 74.4931 80.7213 73.2129 78.41 71.6119C76.7566 70.4627 75.3955 68.9421 74.4356 67.1721C73.6029 65.5059 73.1819 63.6642 73.208 61.8016C73.2035 59.5639 73.8185 57.3687 74.9848 55.459C76.3143 53.3555 78.2235 51.6813 80.4826 50.6379C83.1051 49.2041 86.0522 48.4686 89.0409 48.5019C91.4177 48.3778 93.8001 48.4124 96.1723 48.6056C98.1022 48.9984 99.9772 49.624 101.756 50.4688C101.871 50.5017 101.977 50.5609 102.065 50.6416C102.153 50.7224 102.22 50.8226 102.263 50.9342C102.32 51.1406 102.349 51.3539 102.348 51.5681V60.11C102.354 60.2093 102.333 60.3084 102.289 60.3974C102.244 60.4864 102.177 60.5622 102.094 60.6172C102.006 60.6733 101.903 60.703 101.798 60.703C101.693 60.703 101.59 60.6733 101.502 60.6172Z" fill="#31A8FF"></path></svg>  
   <link href="http://localhost/me.colorvision.design/wp-content/uploads/ac_assets/uc-liner-progress-bar/uc-liner-progress-bar.css" id="uc_ac_assets_file_uc_liner_progress_bar_css_4479-css" rel="stylesheet" type="text/css"></link><style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor35796.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1896055.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor35796.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1896055.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -225,11 +221,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor48393.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1906661.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor48393.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1906661.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -239,11 +235,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor57163.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1916369.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor57163.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1916369.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -253,11 +249,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor64210.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1926042.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor64210.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1926042.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -267,11 +263,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor74641.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1939895.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor74641.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1939895.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -281,11 +277,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor80796.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1940946.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor80796.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1940946.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -297,11 +293,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor96161.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1956260.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor96161.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1956260.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -311,11 +307,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor106083.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1962245.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor106083.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1962245.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -325,11 +321,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor119166.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1978120.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor119166.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1978120.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -339,11 +335,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor129237.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1985984.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor129237.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1985984.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -355,11 +351,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor132696.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor1998400.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor132696.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor1998400.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -369,11 +365,11 @@ All Advertising Services.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor146966.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2009841.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor146966.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2009841.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -424,8 +420,7 @@ We aim for your designs to be modern, relevant and relevant to you and your cust
 
 ### Our Client say About Us. 
 
-<style>/*! elementor - v3.5.6 - 28-02-2022 */
-.elementor-star-rating{color:#ccd6df;font-family:eicons;display:inline-block}.elementor-star-rating i{display:inline-block;position:relative;font-style:normal;cursor:default}.elementor-star-rating i:before{content:"e934";display:block;font-size:inherit;font-family:inherit;position:absolute;overflow:hidden;color:#f0ad4e;top:0;left:0}.elementor-star-rating .elementor-star-empty:before{content:none}.elementor-star-rating .elementor-star-1:before{width:10%}.elementor-star-rating .elementor-star-2:before{width:20%}.elementor-star-rating .elementor-star-3:before{width:30%}.elementor-star-rating .elementor-star-4:before{width:40%}.elementor-star-rating .elementor-star-5:before{width:50%}.elementor-star-rating .elementor-star-6:before{width:60%}.elementor-star-rating .elementor-star-7:before{width:70%}.elementor-star-rating .elementor-star-8:before{width:80%}.elementor-star-rating .elementor-star-9:before{width:90%}.elementor-star-rating__wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-star-rating__title{margin-right:10px}.elementor-star-rating--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating--align-justify .elementor-star-rating__title{margin-right:auto}@media (max-width:1024px){.elementor-star-rating-tablet--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating-tablet--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating-tablet--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating-tablet--align-justify .elementor-star-rating__title{margin-right:auto}}@media (max-width:767px){.elementor-star-rating-mobile--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating-mobile--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating-mobile--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating-mobile--align-justify .elementor-star-rating__title{margin-right:auto}}.last-star{letter-spacing:0}.elementor--star-style-star_unicode .elementor-star-rating{font-family:Arial,Helvetica,sans-serif}.elementor--star-style-star_unicode .elementor-star-rating i:not(.elementor-star-empty):before{content:" 02605"}</style><link href="http://localhost/me.colorvision.design/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css" rel="stylesheet"></link> ![Brands 4 Less](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/brands4lesslogo-916x1024-2.jpg)  
+ ![Brands 4 Less](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/brands4lesslogo-916x1024-2.jpg)  
  <cite>Brands 4 Less**@brands4less.hurghada</cite> <svg aria-hidden="true"><use xlink:href="#fab-facebook"></use></svg>Read More  
  Color Vision is an incredibly talented graphic designer who was easy to work with, very professional, and he captured exactly what I was looking for in my brand identity design. He listened to my thoughts, and I couldn’t be happier with the result! I would totally recommend it to anyone and would definitely work with him again!  
  ![Marco Metta](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/1931338_42158379254_7820_n.jpg)  
@@ -440,7 +435,9 @@ We aim for your designs to be modern, relevant and relevant to you and your cust
  Add Your Feedback  
  ](#rev01)  
  ![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/Mask-Group-2-26.png)  
- Some Our Clients ### Our Previous Satisfied Clients.
+ Some Our Clients
+
+### Our Previous Satisfied Clients.
 
 You will never get a second chance to make a first impression, which is why it is so important to have a professionally designed logo. I encourage you to take a look at my logo design portfolio to see some of my work.
 
@@ -452,62 +449,62 @@ You will never get a second chance to make a first impression, which is why it i
 ###### Ratings Overview
 
   <link href="http://localhost/me.colorvision.design/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fontawesome-all.min.css" id="font-awesome-css" rel="stylesheet" type="text/css"></link> <link href="http://localhost/me.colorvision.design/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/font-awesome5/css/fontawesome-v4-shims.css" id="font-awesome-4-shim-css" rel="stylesheet" type="text/css"></link> <link href="http://localhost/me.colorvision.design/wp-content/plugins/unlimited-elements-for-elementor-premium/assets_libraries/owl-carousel-new/assets/owl.carousel.css" id="owl-carousel-css" rel="stylesheet" type="text/css"></link><style type="text/css">/* widget: Logo Carousel */
-#uc_logo_carousel_elementor154010{
+#uc_logo_carousel_elementor2010086{
   min-height:1px;
 }
-#uc_logo_carousel_elementor154010 *{
+#uc_logo_carousel_elementor2010086 *{
   box-sizing:border-box;
 }
-#uc_logo_carousel_elementor154010 .owl-nav .owl-prev{
+#uc_logo_carousel_elementor2010086 .owl-nav .owl-prev{
     position:absolute;
     left:-90px;
     display:inline-block;
     text-align:center;
 }
-#uc_logo_carousel_elementor154010 .owl-nav .owl-next{
+#uc_logo_carousel_elementor2010086 .owl-nav .owl-next{
   position:absolute;
     right:-90px;
   display:inline-block;
   text-align:center;
 }
-#uc_logo_carousel_elementor154010 .owl-dots {
+#uc_logo_carousel_elementor2010086 .owl-dots {
 overflow:hidden;
 display:block !important;
 text-align:center;
 }
-#uc_logo_carousel_elementor154010 .owl-dot {
+#uc_logo_carousel_elementor2010086 .owl-dot {
 border-radius:50%;
 display:inline-block;
 }
-#uc_logo_carousel_elementor154010{
+#uc_logo_carousel_elementor2010086{
 	text-align: center;
   position:relative;
 }
-#uc_logo_carousel_elementor154010 .uc_logo_carousel_holder{
+#uc_logo_carousel_elementor2010086 .uc_logo_carousel_holder{
     display:flex;
     align-items: center;
     justify-content:center;
     flex-wrap: wrap;
     width: 100%;
 }
-#uc_logo_carousel_elementor154010 .uc_logo_carousel_holder a
+#uc_logo_carousel_elementor2010086 .uc_logo_carousel_holder a
 {height:100%;
     width: 100%;
   display:flex;
   align-items: center;
     justify-content:center;
 }
-#uc_logo_carousel_elementor154010  img{
+#uc_logo_carousel_elementor2010086  img{
     height:100%;
     width: 100%;
     object-fit: contain;
 }
-#uc_logo_carousel_elementor154010 .ue-item {
+#uc_logo_carousel_elementor2010086 .ue-item {
 	opacity: 0.3;
 	transform: scale3d(0.8, 0.8, 1);
 	transition: all 0.3s ease-in-out;
 }
-#uc_logo_carousel_elementor154010 .active.center .ue-item {
+#uc_logo_carousel_elementor2010086 .active.center .ue-item {
 	opacity: 1;
 	transform: scale3d(1, 1, 1);
 	transition: all 0.3s ease-in-out;
@@ -554,7 +551,7 @@ display:inline-block;
 # Hello, my name’s Omar. I’m Graphic Designer.
 
 <style type="text/css">/* widget: Liquid Button */
-#uc_super_fun_liquid_button_elementor166933 {
+#uc_super_fun_liquid_button_elementor2026722 {
   background: none;
   padding: 20px 40px;
   border-radius: 50px;
@@ -564,7 +561,7 @@ display:inline-block;
   text-decoration: none;
   z-index: 2;
 }
-#uc_super_fun_liquid_button_elementor166933 canvas {
+#uc_super_fun_liquid_button_elementor2026722 canvas {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -582,7 +579,7 @@ display:inline-block;
  ![](http://localhost/me.colorvision.design/wp-content/uploads/2022/03/pp_banner_dotted_shape_01-1.png)
 
 <style type="text/css">/* widget: Blob Shapes */
-#uc_blob_shapes_elementor172303
+#uc_blob_shapes_elementor2030320
 {
   mix-blend-mode: normal;
   background-size:cover;
@@ -590,14 +587,14 @@ display:inline-block;
   background-position:center center;
   opacity: 100%;
 }
-#uc_blob_shapes_elementor172303_size {
+#uc_blob_shapes_elementor2030320_size {
   overflow:hidden;
   width: 100%;
   clip-path: animated;
   -webkit-clip-path: animated;
   background:linear-gradient(120deg, #FB2541 0%, 40%, #00B4FF 85%); 
 }
-#uc_blob_shapes_elementor172303_size{
+#uc_blob_shapes_elementor2030320_size{
   animation-name: animated;
   animation-iteration-count: infinite;
   animation-direction: alternate;
@@ -619,7 +616,7 @@ display:inline-block;
    -webkit-clip-path: polygon(96.500% 13.800%, 97.700% 15.900%, 98.600% 18.100%, 99.300% 20.500%, 99.700% 23.000%, 99.900% 25.600%, 99.900% 28.300%, 99.700% 31.100%, 99.500% 34.000%, 99.000% 36.900%, 98.400% 39.900%, 97.700% 42.900%, 96.900% 45.900%, 96.000% 49.000%, 95.100% 52.100%, 94.100% 55.200%, 93.100% 58.200%, 92.100% 61.200%, 91.100% 64.100%, 90.100% 67.000%, 89.100% 69.800%, 88.000% 72.600%, 86.900% 75.300%, 85.700% 77.900%, 84.500% 80.400%, 83.200% 82.800%, 81.800% 85.100%, 80.300% 87.200%, 78.700% 89.200%, 77.000% 91.000%, 75.200% 92.700%, 73.300% 94.200%, 71.200% 95.600%, 69.000% 96.800%, 66.700% 97.800%, 64.300% 98.600%, 61.800% 99.200%, 59.200% 99.700%, 56.500% 100.000%, 53.800% 100.100%, 51.000% 100.100%, 48.200% 99.900%, 45.400% 99.600%, 42.600% 99.100%, 39.800% 98.500%, 37.000% 97.700%, 34.300% 96.800%, 31.700% 95.700%, 29.100% 94.500%, 26.600% 93.100%, 24.200% 91.600%, 21.900% 90.000%, 19.700% 88.300%, 17.600% 86.500%, 15.600% 84.500%, 13.700% 82.400%, 11.900% 80.300%, 10.300% 78.100%, 8.800% 75.800%, 7.400% 73.400%, 6.100% 70.900%, 4.900% 68.400%, 3.800% 65.800%, 2.800% 63.100%, 2.000% 60.400%, 1.300% 57.600%, 0.700% 54.800%, 0.200% 52.000%, -0.100% 49.200%, -0.300% 46.400%, 0.000% 43.300%, 0.100% 40.500%, 0.300% 37.700%, 0.700% 35.000%, 1.200% 32.300%, 1.900% 29.700%, 2.800% 27.200%, 3.800% 24.700%, 5.000% 22.300%, 6.400% 20.000%, 8.000% 17.900%, 9.800% 15.900%, 11.700% 14.000%, 13.800% 12.200%, 16.100% 10.500%, 18.500% 9.000%, 21.000% 7.600%, 23.700% 6.300%, 26.500% 5.100%, 29.400% 4.100%, 32.400% 3.200%, 35.500% 2.400%, 38.700% 1.700%, 41.900% 1.100%, 45.200% 0.600%, 48.500% 0.300%, 51.900% 0.100%, 55.300% 0.000%, 58.700% 0.000%, 62.100% 0.100%, 65.500% 0.300%, 68.800% 0.700%, 72.100% 1.200%, 75.300% 1.800%, 78.400% 2.600%, 81.300% 3.500%, 84.100% 4.500%, 86.700% 5.700%, 89.100% 7.000%, 91.300% 8.500%, 93.300% 10.100%, 95.000% 11.900%, 96.500% 13.800%);
   }
 }
-#uc_blob_shapes_elementor172303_justification {
+#uc_blob_shapes_elementor2030320_justification {
   display: flex;
 }
 .ue-blob-text-holder
@@ -644,42 +641,42 @@ display:inline-block;
  </a>
 
 <style type="text/css">/* widget: Mobile Conversion Menu */
-#uc_mobile_conversion_menu_elementor185566
+#uc_mobile_conversion_menu_elementor2042252
 {
   position:relative;
   z-index:10000000;
   min-height:1px;
 }
-#uc_mobile_conversion_menu_elementor185566 .converterMenu
+#uc_mobile_conversion_menu_elementor2042252 .converterMenu
 {
   display:flex;
   position:relative;
   z-index:100000000;
 }
-#uc_mobile_conversion_menu_elementor185566 .converterMenu .toggleMenuWrapper
+#uc_mobile_conversion_menu_elementor2042252 .converterMenu .toggleMenuWrapper
 {
   display:none;
 }
-#uc_mobile_conversion_menu_elementor185566 .converterMenu .toggleMenu
+#uc_mobile_conversion_menu_elementor2042252 .converterMenu .toggleMenu
 {
   display:flex;
 }
-#uc_mobile_conversion_menu_elementor185566 a.ue_icon
+#uc_mobile_conversion_menu_elementor2042252 a.ue_icon
 {
  display:flex;
   align-items:center;
   justify-content:center;
 }
-#uc_mobile_conversion_menu_elementor185566 div.ue-icon
+#uc_mobile_conversion_menu_elementor2042252 div.ue-icon
 {
   line-height: 1em;
 }
-#uc_mobile_conversion_menu_elementor185566 div.ue-icon svg
+#uc_mobile_conversion_menu_elementor2042252 div.ue-icon svg
 {
   height: 1em;
   width: 1em;
 }
-#uc_mobile_conversion_menu_elementor185566 a
+#uc_mobile_conversion_menu_elementor2042252 a
 {
   text-decoration:none;
 	cursor: pointer;
@@ -689,7 +686,7 @@ display:inline-block;
     text-align:center;
     box-sizing:content-box;
 }
-#uc_mobile_conversion_menu_elementor185566 .converterOverlay
+#uc_mobile_conversion_menu_elementor2042252 .converterOverlay
 {
   position:fixed;
   top:0px;
@@ -845,11 +842,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor196855.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2059071.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor196855.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2059071.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -859,11 +856,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor205057.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2065523.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor205057.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2065523.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -873,11 +870,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor219864.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2070459.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor219864.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2070459.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -887,11 +884,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor228723.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2084150.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor228723.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2084150.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -901,11 +898,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor239602.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2092013.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor239602.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2092013.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -915,11 +912,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor244207.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2101601.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor244207.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2101601.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -931,11 +928,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor255974.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2113087.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor255974.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2113087.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -945,11 +942,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor265728.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2124702.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor265728.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2124702.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -959,11 +956,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor274604.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2139268.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor274604.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2139268.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -975,11 +972,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor283981.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2141963.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor283981.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2141963.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -989,11 +986,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor298526.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2151905.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor298526.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2151905.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -1003,11 +1000,11 @@ Sports activities etc.
 
 <style type="text/css">/* widget: Linear Progress Bar - copy */
 /*border-bar-counter*/
-#uc_linear_progress_bar_copy_elementor303364.blox-border-bar-counter .blox-border-progress-bar{
+#uc_linear_progress_bar_copy_elementor2169629.blox-border-bar-counter .blox-border-progress-bar{
     border-radius: 30px;
   	height: 13px;
 }
-#uc_linear_progress_bar_copy_elementor303364.blox-border-bar-counter .blox-border-bar{
+#uc_linear_progress_bar_copy_elementor2169629.blox-border-bar-counter .blox-border-bar{
     border-radius: 30px;
   	padding: 5px;
   	border-top: 0px solid #eeeeee;
@@ -1102,62 +1099,62 @@ You will never get a second chance to make a first impression, which is why it i
 ###### Ratings Overview
 
 <style type="text/css">/* widget: Logo Carousel */
-#uc_logo_carousel_elementor312564{
+#uc_logo_carousel_elementor2175698{
   min-height:1px;
 }
-#uc_logo_carousel_elementor312564 *{
+#uc_logo_carousel_elementor2175698 *{
   box-sizing:border-box;
 }
-#uc_logo_carousel_elementor312564 .owl-nav .owl-prev{
+#uc_logo_carousel_elementor2175698 .owl-nav .owl-prev{
     position:absolute;
     left:-90px;
     display:inline-block;
     text-align:center;
 }
-#uc_logo_carousel_elementor312564 .owl-nav .owl-next{
+#uc_logo_carousel_elementor2175698 .owl-nav .owl-next{
   position:absolute;
     right:-90px;
   display:inline-block;
   text-align:center;
 }
-#uc_logo_carousel_elementor312564 .owl-dots {
+#uc_logo_carousel_elementor2175698 .owl-dots {
 overflow:hidden;
 display:block !important;
 text-align:center;
 }
-#uc_logo_carousel_elementor312564 .owl-dot {
+#uc_logo_carousel_elementor2175698 .owl-dot {
 border-radius:50%;
 display:inline-block;
 }
-#uc_logo_carousel_elementor312564{
+#uc_logo_carousel_elementor2175698{
 	text-align: center;
   position:relative;
 }
-#uc_logo_carousel_elementor312564 .uc_logo_carousel_holder{
+#uc_logo_carousel_elementor2175698 .uc_logo_carousel_holder{
     display:flex;
     align-items: center;
     justify-content:center;
     flex-wrap: wrap;
     width: 100%;
 }
-#uc_logo_carousel_elementor312564 .uc_logo_carousel_holder a
+#uc_logo_carousel_elementor2175698 .uc_logo_carousel_holder a
 {height:100%;
     width: 100%;
   display:flex;
   align-items: center;
     justify-content:center;
 }
-#uc_logo_carousel_elementor312564  img{
+#uc_logo_carousel_elementor2175698  img{
     height:100%;
     width: 100%;
     object-fit: contain;
 }
-#uc_logo_carousel_elementor312564 .ue-item {
+#uc_logo_carousel_elementor2175698 .ue-item {
 	opacity: 0.3;
 	transform: scale3d(0.8, 0.8, 1);
 	transition: all 0.3s ease-in-out;
 }
-#uc_logo_carousel_elementor312564 .active.center .ue-item {
+#uc_logo_carousel_elementor2175698 .active.center .ue-item {
 	opacity: 1;
 	transform: scale3d(1, 1, 1);
 	transition: all 0.3s ease-in-out;
